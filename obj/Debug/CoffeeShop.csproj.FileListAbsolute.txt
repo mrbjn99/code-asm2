@@ -1,0 +1,7 @@
+C:\Users\mrbjn\source\repos\CoffeeShop\obj\Debug\CoffeeShop.csprojAssemblyReference.cache
+C:\Users\mrbjn\source\repos\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\mrbjn\source\repos\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+C:\Users\mrbjn\source\repos\CoffeeShop\bin\Debug\CoffeeShop.exe
+C:\Users\mrbjn\source\repos\CoffeeShop\bin\Debug\CoffeeShop.pdb
+C:\Users\mrbjn\source\repos\CoffeeShop\obj\Debug\CoffeeShop.exe
+C:\Users\mrbjn\source\repos\CoffeeShop\obj\Debug\CoffeeShop.pdb
